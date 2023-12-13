@@ -12,7 +12,7 @@ The file anom_data_and_code_CMPB2023.zip.gpg was cryptographed with the GPG comm
 > gpg -c anom_data_and_code_CMPB2023.zip.gpg
 ```
 
-In order to access the data and the code, *please request the GPG cryptographic key* to prof. Georgia Pena via e-mail georgiapena@ufu.br with the
+In order to access the data and the code, *please request the GPG cryptographic key* to prof. Georgia Pena via e-mail georgia@ufu.br with the
 following information:
 
 * Full name
