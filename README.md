@@ -6,6 +6,8 @@ This paper was authored by NC da Silva, MK Albertini, AR Backes and GG Pena at F
 
 DOI: to be included when available
 
+https://www.facom.ufu.br/~albertini/anom_data_and_code_CMPB2023.zip.gpg
+
 The file anom_data_and_code_CMPB2023.zip.gpg was created with the GPG command in a Linux terminal:
 
 ```
